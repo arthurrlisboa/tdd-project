@@ -1,0 +1,2 @@
+ 
+Dentre as diferenças entre o teste de unidade e o funcional está o fato de que no teste funcional a funcionalidade é testada em alto nível (e por isso em sua completude) e nos testes de unidade é testada de forma mais específica o possível, onde cada teste cobre apenas unidades do código. Além disso, os testes de unidade mudam frequentemente e os testes funcionais nunca devem mudar em uma versão principal.
